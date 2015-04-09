@@ -1,0 +1,8 @@
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\bin\Release\Project2_CS452.exe.config
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\bin\Release\Project2_CS452.exe
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\bin\Release\Project2_CS452.pdb
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\obj\Release\Project2_CS452.Form1.resources
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\obj\Release\Project2_CS452.Properties.Resources.resources
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\obj\Release\Project2_CS452.csproj.GenerateResource.Cache
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\obj\Release\Project2_CS452.exe
+C:\Users\ajaki_000\Desktop\Project2_CS452\Project2_CS452\obj\Release\Project2_CS452.pdb
